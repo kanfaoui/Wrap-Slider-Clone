@@ -1,2 +1,2 @@
 # Wrap-Slider-Clone
-clone of wrap slider casual published by Crazy Labs
+A clone of wrap slider casual game , published by Crazy Labs
